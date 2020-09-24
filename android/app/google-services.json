@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208213762078",
+    "firebase_url": "https://privatechat-e8924.firebaseio.com",
+    "project_id": "privatechat-e8924",
+    "storage_bucket": "privatechat-e8924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208213762078:android:208f7089bad3468bd18e0f",
+        "android_client_info": {
+          "package_name": "com.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208213762078-g7ntqsla218gfinmn5qbrgc8f2bhj6cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkXyh4lltudkHEUulM-9j_RaPGwUB5K9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208213762078-g7ntqsla218gfinmn5qbrgc8f2bhj6cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
